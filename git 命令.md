@@ -2,3 +2,4 @@
 2.  ssh -T git@github.com -->检测github链接是否成功
 2.  git remote add origin 'github地址' --> 添加远端仓库
 3.  这是克隆的修改的
+4.  我的天哪原本的
